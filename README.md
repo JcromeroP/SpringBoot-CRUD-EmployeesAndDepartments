@@ -8,13 +8,12 @@ I have developed a CRUD in Spring Boot to manage employees associated with depar
 3. MySQL Workbench
 4. Vscode
 ## Dependencies used
-1. Spring Boot
-2. Spring Data JPA
-3. Spring Boot Dev Tools
-4. Spring Web
-5. Validation
-6. Lombok
-7. H2 Database
+1. Spring Data JPA
+2. Spring Boot Dev Tools
+3. Spring Web
+4. Validation
+5. Lombok
+6. H2 Database
 
 ## Testing endpoints with postman:
 1. POST /save:
